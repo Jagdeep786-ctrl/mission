@@ -58,10 +58,7 @@
 	</dependencies>
 
 	<distributionManagement>
-        <repository>
-            <id>maven-releases</id>
-            <url>http://98.80.72.101:8081/repository/maven-releases/</url>
-        </repository>
+           
         <snapshotRepository>
             <id>maven-snapshots</id>
             <url>http://98.80.72.101:8081/repository/maven-snapshots/</url>
